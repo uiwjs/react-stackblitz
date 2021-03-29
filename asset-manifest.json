@@ -944,19 +944,19 @@
     "runtime-main.js": "/react-stackblitz/static/js/runtime-main.1ed54a31.js",
     "runtime-main.js.map": "/react-stackblitz/static/js/runtime-main.1ed54a31.js.map",
     "static/css/471.a93b785d.chunk.css": "/react-stackblitz/static/css/471.a93b785d.chunk.css",
-    "static/js/471.24982cd4.chunk.js": "/react-stackblitz/static/js/471.24982cd4.chunk.js",
-    "static/js/471.24982cd4.chunk.js.map": "/react-stackblitz/static/js/471.24982cd4.chunk.js.map",
+    "static/js/471.4ed07911.chunk.js": "/react-stackblitz/static/js/471.4ed07911.chunk.js",
+    "static/js/471.4ed07911.chunk.js.map": "/react-stackblitz/static/js/471.4ed07911.chunk.js.map",
     "index.html": "/react-stackblitz/index.html",
     "static/css/471.a93b785d.chunk.css.map": "/react-stackblitz/static/css/471.a93b785d.chunk.css.map",
     "static/css/main.567df7ed.chunk.css.map": "/react-stackblitz/static/css/main.567df7ed.chunk.css.map",
-    "static/js/471.24982cd4.chunk.js.LICENSE.txt": "/react-stackblitz/static/js/471.24982cd4.chunk.js.LICENSE.txt",
+    "static/js/471.4ed07911.chunk.js.LICENSE.txt": "/react-stackblitz/static/js/471.4ed07911.chunk.js.LICENSE.txt",
     "static/js/72.07f6ef49.chunk.js.LICENSE.txt": "/react-stackblitz/static/js/72.07f6ef49.chunk.js.LICENSE.txt",
     "static/media/logo.3931a054.svg": "/react-stackblitz/static/media/logo.3931a054.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1ed54a31.js",
     "static/css/471.a93b785d.chunk.css",
-    "static/js/471.24982cd4.chunk.js",
+    "static/js/471.4ed07911.chunk.js",
     "static/css/main.567df7ed.chunk.css",
     "static/js/main.8d382ff4.chunk.js"
   ]
