@@ -1,2 +1,0 @@
-(this["webpackJsonp@uiw/react-stackblitz"]=this["webpackJsonp@uiw/react-stackblitz"]||[]).push([[181],{237:function(n,a){var e;(e=Prism).languages.ignore={comment:/^#.*/m,entry:{pattern:/\S(?:.*(?:(?:\\ )|\S))?/,alias:"string",inside:{operator:/^!|\*\*?|\?/,regex:{pattern:/(^|[^\\])\[[^\[\]]*\]/,lookbehind:!0},punctuation:/\//}}},e.languages.gitignore=e.languages.ignore,e.languages.hgignore=e.languages.ignore,e.languages.npmignore=e.languages.ignore}}]);
-//# sourceMappingURL=181.0da99989.chunk.js.map
