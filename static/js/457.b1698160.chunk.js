@@ -1,2 +1,0 @@
-(this["webpackJsonp@uiw/react-stackblitz"]=this["webpackJsonp@uiw/react-stackblitz"]||[]).push([[457],{514:function(a,t){!function(a){function t(t,e){a.languages[t]&&a.languages.insertBefore(t,"comment",{"doc-comment":e})}var e=a.languages.markup.tag,n={pattern:/\/\/\/.*/,greedy:!0,alias:"comment",inside:{tag:e}},s={pattern:/'''.*/,greedy:!0,alias:"comment",inside:{tag:e}};t("csharp",n),t("fsharp",n),t("vbnet",s)}(Prism)}}]);
-//# sourceMappingURL=457.b1698160.chunk.js.map
