@@ -1,4 +1,4 @@
-name: Build & Deploy
+name: CI
 on:
   push:
     branches:
@@ -58,7 +58,7 @@ jobs:
         body: |
           [![](https://img.shields.io/badge/Open%20in-unpkg-blue)](https://uiwjs.github.io/npm-unpkg/#/pkg/@uiw/react-stackblitz@${{ steps.create_tag.outputs.versionNumber }}/file/README.md)
 
-          Documentation ${{ steps.changelog.outputs.tag }}: https://raw.githack.com/uiwjs/react-codepen/${{ steps.changelog.outputs.gh-pages-short-hash }}/index.html  
+          Documentation ${{ steps.changelog.outputs.tag }}: https://raw.githack.com/uiwjs/react-stackblitz/${{ steps.changelog.outputs.gh-pages-short-hash }}/index.html  
           Comparing Changes: ${{ steps.changelog.outputs.compareurl }}  
 
           ```bash
