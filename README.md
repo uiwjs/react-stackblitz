@@ -3,7 +3,7 @@ React StackBlitz
 
 <!--dividing-->
 
-[![Build & Deploy](https://github.com/uiwjs/react-stackblitz/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/uiwjs/react-stackblitz/actions)
+[![Build & Deploy](https://github.com/uiwjs/react-stackblitz/actions/workflows/ci.yml/badge.svg)](https://github.com/uiwjs/react-stackblitz/actions/workflows/ci.yml)
 [![Issues](https://img.shields.io/github/issues/uiwjs/react-stackblitz.svg)](https://github.com/uiwjs/react-stackblitz/issues)
 [![Forks](https://img.shields.io/github/forks/uiwjs/react-stackblitz.svg)](https://github.com/uiwjs/react-stackblitz/network)
 [![Stars](https://img.shields.io/github/stars/uiwjs/react-stackblitz.svg)](https://github.com/uiwjs/react-stackblitz/stargazers)
@@ -112,6 +112,16 @@ Your app is ready to be deployed!
 - [`@uiw/react-codepen`](https://github.com/uiwjs/react-codepen)
 - [`@uiw/react-codesandbox`](https://github.com/uiwjs/react-codesandbox)
 
-### License
+## Contributors
+
+As always, thanks to our amazing contributors!
+
+<a href="https://github.com/uiwjs/react-codepen/graphs/contributors">
+  <img src="https://uiwjs.github.io/react-codepen/CONTRIBUTORS.svg" />
+</a>
+
+Made with [github-action-contributors](https://github.com/jaywcjlove/github-action-contributors).
+
+## License
 
 Licensed under the MIT License.
