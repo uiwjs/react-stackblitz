@@ -47,7 +47,7 @@
     "tsbb": "^4.1.4"
   },
   "dependencies": {
-    "@stackblitz/sdk": "~1.6.0"
+    "@stackblitz/sdk": "~1.9.0"
   },
   "eslintConfig": {
     "extends": [
