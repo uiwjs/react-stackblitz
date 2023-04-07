@@ -1,3 +1,4 @@
+import React from 'react';
 import StackBlitz from '../';
 
 const code = `import React from "react";

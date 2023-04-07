@@ -21,6 +21,9 @@ const App: React.FC = () => {
         <span className="App-arrow"></span>
       </header>
       <Markdown
+        wrapperElement={{
+          "data-color-mode": "light"
+        }}
         style={{ paddingTop: 25, maxWidth: 680, margin: '0 auto' }}
         source={MDStr.replace(/([\s\S]*)<!--dividing-->/, '')}
       />
