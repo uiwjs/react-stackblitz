@@ -1,6 +1,6 @@
 import React from 'react';
 import sdk from "@stackblitz/sdk";
-import { Project, EmbedOptions, OpenOptions } from "@stackblitz/sdk/typings/interfaces";
+import { Project, EmbedOptions, OpenOptions } from "@stackblitz/sdk";
 
 export type EmbedOpts = {
   /** Either an element ID string or the target HTMLElement itself. */
